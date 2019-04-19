@@ -1,3 +1,4 @@
+com\ed\controller\test.class
 com\ed\controller\HelloController.class
 com\ed\mapper\UserMapper.class
 com\ed\Application.class
